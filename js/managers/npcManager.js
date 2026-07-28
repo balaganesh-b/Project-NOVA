@@ -1,0 +1,1 @@
+// npcManager.js
